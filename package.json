@@ -1,0 +1,19 @@
+{
+  "name": "primeiro_servidor_nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "aula",
+    "getting started"
+  ],
+  "author": "marina-gonzalez",
+  "license": "ISC",
+  "description": "Aplicação de estudo de nodejs",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
